@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+/Lib
+/etc
+/Scripts
+/share
+/.idea
+coin_api_key.json
